@@ -1,0 +1,17 @@
+C:\Users\jimmy\source\repos\LearningC#\LearningC#\bin\Debug\net6.0\LearningC#.exe
+C:\Users\jimmy\source\repos\LearningC#\LearningC#\bin\Debug\net6.0\LearningC#.deps.json
+C:\Users\jimmy\source\repos\LearningC#\LearningC#\bin\Debug\net6.0\LearningC#.runtimeconfig.json
+C:\Users\jimmy\source\repos\LearningC#\LearningC#\bin\Debug\net6.0\LearningC#.dll
+C:\Users\jimmy\source\repos\LearningC#\LearningC#\bin\Debug\net6.0\LearningC#.pdb
+C:\Users\jimmy\source\repos\LearningC#\LearningC#\bin\Debug\net6.0\nunit.framework.dll
+C:\Users\jimmy\source\repos\LearningC#\LearningC#\obj\Debug\net6.0\LearningC#.csproj.AssemblyReference.cache
+C:\Users\jimmy\source\repos\LearningC#\LearningC#\obj\Debug\net6.0\LearningC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jimmy\source\repos\LearningC#\LearningC#\obj\Debug\net6.0\LearningC#.AssemblyInfoInputs.cache
+C:\Users\jimmy\source\repos\LearningC#\LearningC#\obj\Debug\net6.0\LearningC#.AssemblyInfo.cs
+C:\Users\jimmy\source\repos\LearningC#\LearningC#\obj\Debug\net6.0\LearningC#.csproj.CoreCompileInputs.cache
+C:\Users\jimmy\source\repos\LearningC#\LearningC#\obj\Debug\net6.0\LearningC#.csproj.CopyComplete
+C:\Users\jimmy\source\repos\LearningC#\LearningC#\obj\Debug\net6.0\LearningC#.dll
+C:\Users\jimmy\source\repos\LearningC#\LearningC#\obj\Debug\net6.0\refint\LearningC#.dll
+C:\Users\jimmy\source\repos\LearningC#\LearningC#\obj\Debug\net6.0\LearningC#.pdb
+C:\Users\jimmy\source\repos\LearningC#\LearningC#\obj\Debug\net6.0\LearningC#.genruntimeconfig.cache
+C:\Users\jimmy\source\repos\LearningC#\LearningC#\obj\Debug\net6.0\ref\LearningC#.dll

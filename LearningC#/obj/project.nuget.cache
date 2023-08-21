@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/4+2eWomUK83LV6u44B2mOnAMtdBnvBXZe8CgQ+digCBFV+a1Fqf1+MojdACmZmsCmkJzMvvaLAGeaUrPWoiaw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jimmy\\source\\repos\\LearningC#\\LearningC#\\Testing in C#.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jimmy\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\jimmy\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\jimmy\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512"
+  ],
+  "logs": []
+}
